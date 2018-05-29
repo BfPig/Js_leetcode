@@ -3,7 +3,7 @@
 
 ### LeetCode Algorithms
 |    #     |   Title  |   Solution   |  Difficulty   |   Collection   |
-| :-------- | --------:|    :------:    |    :------:     |     :------:      |
+| :--------: | :--------:|    :------:    |    :------:     |     :------:      |
 | 1    |   [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [JavaScript](./Solution/1.js) |  easy  |     |
 
 ### LeetCode Shell
